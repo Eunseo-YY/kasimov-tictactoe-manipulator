@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# ROS2 colcon
+build/
+install/
+log/
+
+# Python (optional)
+__pycache__/
+*.pyc
+.venv/
